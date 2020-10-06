@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@tanjaae/thaismartcardreader": "^0.2.6",
+    "@tanjaae/thaismartcardreader": "0.2.6",
     "smartcard": "1.0.29"
   }
 }
